@@ -1,0 +1,94 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "image": "https://picsum.photos/900",
+      "year": 2024,
+      "category": "Sedan",
+      "price": "1.050.000₺"
+    },
+    {
+      "id": "2",
+      "brand": "Renault",
+      "model": "Clio",
+      "image": "https://picsum.photos/901",
+      "year": 2024,
+      "category": "Hatchback",
+      "price": "650.000₺"
+    },
+    {
+      "id": "3",
+      "brand": "Ford",
+      "model": "Focus",
+      "image": "https://picsum.photos/902",
+      "year": 2024,
+      "category": "Sedan",
+      "price": "950.000₺"
+    },
+    {
+      "id": "4",
+      "brand": "Volkswagen",
+      "model": "Passat",
+      "image": "https://picsum.photos/903",
+      "year": 2024,
+      "category": "Sedan",
+      "price": "1.200.000₺"
+    },
+    {
+      "id": "5",
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "image": "https://picsum.photos/904",
+      "year": 2024,
+      "category": "SUV",
+      "price": "1.400.000₺"
+    },
+    {
+      "id": "6",
+      "brand": "Peugeot",
+      "model": "208",
+      "image": "https://picsum.photos/905",
+      "year": 2024,
+      "category": "Hatchback",
+      "price": "700.000₺"
+    },
+    {
+      "id": "7",
+      "brand": "BMW",
+      "model": "3 Serisi",
+      "image": "https://picsum.photos/906",
+      "year": 2024,
+      "category": "Sedan",
+      "price": "1.800.000₺"
+    },
+    {
+      "id": "8",
+      "brand": "Mercedes-Benz",
+      "model": "A Serisi",
+      "image": "https://picsum.photos/907",
+      "year": 2024,
+      "category": "Hatchback",
+      "price": "1.600.000₺"
+    },
+    {
+      "id": "9",
+      "brand": "Fiat",
+      "model": "Egea",
+      "image": "https://picsum.photos/908",
+      "year": 2024,
+      "category": "Sedan",
+      "price": "550.000₺"
+    },
+    {
+      "id": "10",
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "image": "https://picsum.photos/909",
+      "year": 2024,
+      "category": "SUV",
+      "price": "1.250.000₺"
+    }
+  ]
+}
