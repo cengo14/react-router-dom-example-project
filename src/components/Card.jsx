@@ -3,7 +3,11 @@ import { Link } from "react-router-dom";
 const Card = ({ car }) => {
   return (
     <div className="card shadow p-1">
-      <img className="card-img img-fluid rounded-3" src={car.image} alt="car" />
+      <img
+        className="card-img img-fluid rounded-3 "
+        src={car.image}
+        alt="car"
+      />
       <div className="card-body w-100">
         <h3>{car.model}</h3>
         <h4>{car.brand}</h4>

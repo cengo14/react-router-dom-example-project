@@ -4,7 +4,7 @@
       "id": "1",
       "brand": "Toyota",
       "model": "Corolla",
-      "image": "https://picsum.photos/900",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3bb6dd166718957.641cb6be13a93.jpg",
       "year": 2024,
       "category": "Sedan",
       "price": "1.050.000₺"
@@ -13,7 +13,7 @@
       "id": "2",
       "brand": "Renault",
       "model": "Clio",
-      "image": "https://picsum.photos/901",
+      "image": "https://ideacdn.net/idea/ij/51/myassets/products/640/517577-2024-renault-clio-esprit-alpine-www-lidermodel-com-tr-2.jpg?revision=1717399664",
       "year": 2024,
       "category": "Hatchback",
       "price": "650.000₺"
@@ -22,7 +22,7 @@
       "id": "3",
       "brand": "Ford",
       "model": "Focus",
-      "image": "https://picsum.photos/902",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbgL57k3ZvgaCmbePiTS6zJjH6pAV-cqMvA&s",
       "year": 2024,
       "category": "Sedan",
       "price": "950.000₺"
@@ -31,7 +31,7 @@
       "id": "4",
       "brand": "Volkswagen",
       "model": "Passat",
-      "image": "https://picsum.photos/903",
+      "image": "https://image.made-in-china.com/2f0j00cCIqtUMlbskH/Volkswagen-Passat-2024-2023-1-4t-2-0t-2-Wheel-Drive-Gasoline-Car-5-Seats-Sedan-Car-Fuel-used-Car-in-Stock.webp",
       "year": 2024,
       "category": "Sedan",
       "price": "1.200.000₺"
@@ -40,7 +40,7 @@
       "id": "5",
       "brand": "Hyundai",
       "model": "Tucson",
-      "image": "https://picsum.photos/904",
+      "image": "https://tr.superkilometerfilter.com/wp-content/uploads/2021/06/Hyundai-tucson-3-gen-2020-mileage-blocker-.webp",
       "year": 2024,
       "category": "SUV",
       "price": "1.400.000₺"
@@ -49,7 +49,7 @@
       "id": "6",
       "brand": "Peugeot",
       "model": "208",
-      "image": "https://picsum.photos/905",
+      "image": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/yeni-208/208_Motorisation_750x700_m.jpg?imwidth=768",
       "year": 2024,
       "category": "Hatchback",
       "price": "700.000₺"
@@ -58,7 +58,7 @@
       "id": "7",
       "brand": "BMW",
       "model": "3 Serisi",
-      "image": "https://picsum.photos/906",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpC1eqj3s3husW1kdoy0UD4S1uz1jL-TvYGg&s",
       "year": 2024,
       "category": "Sedan",
       "price": "1.800.000₺"
@@ -67,7 +67,7 @@
       "id": "8",
       "brand": "Mercedes-Benz",
       "model": "A Serisi",
-      "image": "https://picsum.photos/907",
+      "image": "https://image.made-in-china.com/202f0j00aCuqzsMEYIok/Mercedes-Benz-a-Class-2024-a-180-L-Compact-High-Speed-Car-Used-Cars.webp",
       "year": 2024,
       "category": "Hatchback",
       "price": "1.600.000₺"
@@ -76,7 +76,7 @@
       "id": "9",
       "brand": "Fiat",
       "model": "Egea",
-      "image": "https://picsum.photos/908",
+      "image": "https://arabalarcomtr.b-cdn.net/wp-content/uploads/images/versiyon/660x495/fiat/egea/sedan/2024/2024-fiat-egea-sedan-111.jpg",
       "year": 2024,
       "category": "Sedan",
       "price": "550.000₺"
@@ -85,7 +85,7 @@
       "id": "10",
       "brand": "Nissan",
       "model": "Qashqai",
-      "image": "https://picsum.photos/909",
+      "image": "https://cdn.motor1.com/images/mgl/W8Mb21/943:0:3780:3780/nissan-qashqai-2024.webp",
       "year": 2024,
       "category": "SUV",
       "price": "1.250.000₺"
